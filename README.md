@@ -1,2 +1,2 @@
 # Game-of-life-
-a GOL based on conway
+a Qt GOL based on conway
